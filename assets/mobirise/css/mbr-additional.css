@@ -1136,6 +1136,30 @@ a {
     position: static;
   }
 }
+.cid-utUoE1ticg {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/pexels-danila-popov-85164195-14083346-1280x1707.jpeg");
+}
+.cid-utUoE1ticg .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.4;
+}
+.cid-utUoE1ticg form .mbr-section-btn {
+  text-align: center;
+  width: 100%;
+}
+.cid-utUoE1ticg form .mbr-section-btn .btn {
+  display: inline-flex;
+}
+@media (max-width: 991px) {
+  .cid-utUoE1ticg form .mbr-section-btn .btn {
+    width: 100%;
+  }
+}
+.cid-utUoE1ticg .content-head {
+  max-width: 800px;
+}
 .cid-utT8A6WHDj {
   padding-top: 6rem;
   padding-bottom: 6rem;
